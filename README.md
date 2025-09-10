@@ -1,7 +1,7 @@
 # Project Assignment 3
 
 ### Table of Content:
-#### Problem 1:
+#### Problem 1: https://github.com/justinpaulcampos/Project_Assignment3/tree/main#normalization-problem
 #### Problem 2:
 ## Normalization Problem
 The goal of this Program is to normalize a random 5 by 5 array.
